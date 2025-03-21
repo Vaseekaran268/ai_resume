@@ -5,3 +5,4 @@ langchain-groq
 pandas
 numpy
 matplotlib
+python-docx
