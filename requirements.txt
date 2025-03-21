@@ -2,3 +2,6 @@ pymupdf
 langchain
 langchain-community
 langchain-groq
+pandas
+numpy
+matplotlib
