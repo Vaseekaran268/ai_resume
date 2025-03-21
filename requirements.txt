@@ -1,0 +1,7 @@
+pymupdf
+langchain
+langchain
+langchain_groq
+python-docx
+faiss-cpu
+mathplotlib
